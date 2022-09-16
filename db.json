@@ -1,0 +1,110 @@
+{   
+    "categories": [{
+        "id": 1,
+        "title": "Ação",
+        "movies": [
+            {
+                "id": 1,
+                "title": "Jonh Wick",
+                "image": "https://observatoriodocinema.uol.com.br/wp-content/uploads/2022/07/Keanu-Reeves-em-John-Wick-b-1200x900-2.jpg?w=700"
+            },
+            {
+                "id": 2,
+                "title": "Top Gun: Maverick",
+                "image": "https://uploads.jovemnerd.com.br/wp-content/uploads/2022/08/top_gun_capa__26emg45.jpg?w=700"
+            },
+            {
+                "id": 3,
+                "title": "Velozes e Furiosos",
+                "image": "http://s2.glbimg.com/43tcQZY6r_4XptjjBBoakvPGikw=/e.glbimg.com/og/ed/f/original/2017/04/11/g99358.jpg?w=700"
+            },
+            {
+                "id": 4,
+                "title": "Kill Bill",
+                "image": "http://2.bp.blogspot.com/-uocDKPvngfo/UxZtjbYmopI/AAAAAAAABY0/N1noLeIcdIg/s1600/kill-bill-filme-wallpaper-5361.jpg?w=700"
+            },
+            {
+                "id": 5,
+                "title": "007: Operação Skyfall",
+                "image": "https://images5.alphacoders.com/284/thumb-1920-284445.jpg?w=700"
+            },
+            {
+                "id": 6,
+                "title": "Assassin`s Creed",
+                "image": "https://img1.ibxk.com.br/2015/11/12/12134915138723.jpg?w=700"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Comédia",
+        "movies": [
+            {
+                "id": 1,
+                "title": "American Pie",
+                "image": "https://wallpaperaccess.com/full/2274585.jpg?w=700"
+            },
+            {
+                "id": 2,
+                "title": "Norbit",
+                "image": "https://cdn.falauniversidades.com.br/wp-content/uploads/2020/07/21132256/norbit-est%C3%A1-na-netflix.jpg?w=700"
+            },
+            {
+                "id": 3,
+                "title": "As Branquelas",
+                "image": "https://br.web.img3.acsta.net/medias/nmedia/18/97/52/82/20534159.jpg?w=700"
+            },
+            {
+                "id": 4,
+                "title": "Vovó... Zona",
+                "image": "https://br.web.img2.acsta.net/pictures/14/05/06/21/20/243550.jpg?w=700"
+            },
+            {
+                "id": 5,
+                "title": "Click",
+                "image": "https://macmagazine.com.br/wp-content/uploads/2013/09/19-click-300x450.jpg?w=700"
+            },
+            {
+                "id": 6,
+                "title": "A Mentira",
+                "image": "https://assetsgn.nowonline.com.br/assets/p8060361_v_v12_ap.jpg?w=700"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Romance",
+        "movies": [
+            {
+                "id": 1,
+                "title": "500 Dias Com Ela",
+                "image": "https://1.bp.blogspot.com/-1rWRlrGdtKw/WUPpRgld77I/AAAAAAAAJ3M/Kgi-ntT9R2QLwkzO0xrIYZ0XdKHs4SywgCLcBGAs/s1600/365-Filmes-500-Dias-Com-Ela-Summer-Tom-Relacionamento.jpg?w=700"
+            },
+            {
+                "id": 2,
+                "title": "After",
+                "image": "https://images-na.ssl-images-amazon.com/images/I/81y6nIONWCL.jpg?w=700"
+            },
+            {
+                "id": 3,
+                "title": "Brilho Eterno de Uma Mente sem Lembranças",
+                "image": "http://3.bp.blogspot.com/-s9VAtHlJnro/WjqXN24_gsI/AAAAAAAACww/oSoT19eRvQcJOO4NakX-3jWVctJstpNHwCK4BGAYYCw/s1600/brilho%2Beterno.png?w=700"
+            },
+            {
+                "id": 4,
+                "title": "Diário De Uma Paixão",
+                "image": "https://media.rmix.com.br/2021/06/877cfc86-di%C3%A1rio-de-uma-paix%C3%A3o-filme-da-semana.jpg?w=700"
+            },
+            {
+                "id": 5,
+                "title": "Para Todos Os Garotos Que Já Amei",
+                "image": "https://i.ytimg.com/vi/j-3s0-PEd4c/maxresdefault.jpg?w=700"
+            },
+            {
+                "id": 6,
+                "title": "O Lado Bom Da Vida",
+                "image": "http://1.bp.blogspot.com/-8ZDGWtxnH-w/Wjq41AU4D1I/AAAAAAAACxE/d-HJUt_PcvIfdYUwkgTYsV60mkptbsRTwCK4BGAYYCw/s1600/o%2Blado%2Bbom%2Bda%2Bvida.png?w=700"
+            }
+        ]
+    }]
+}
